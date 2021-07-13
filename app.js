@@ -21,4 +21,5 @@ document.write("<br>");
 document.write("You have won " + numOfWon + " times<br>");
 document.write("You have lost " + numOfLost + " times");
 
+document.write("<br><br><h1>The Game is finished</h1>");
 
