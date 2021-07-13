@@ -1,6 +1,4 @@
-document.write("this is guessing game<br><br>");
-
-
+document.write("<br><br>")
 var numOfWon = 0;
 var numOfLost = 0;
 
@@ -22,3 +20,5 @@ for(var i = 1; i<=5; i++){
 document.write("<br>");
 document.write("You have won " + numOfWon + " times<br>");
 document.write("You have lost " + numOfLost + " times");
+
+
